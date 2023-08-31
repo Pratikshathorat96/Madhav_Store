@@ -1,3 +1,6 @@
+![image](https://github.com/Pratikshathorat96/Madhav_Store/assets/120496034/4c641fb5-e8e3-48fe-9b26-d8bdf9c8f3e5)
+
+
 # Madhav Store Dashboard Report Using Power BI
 
 # Goal
